@@ -1,4 +1,4 @@
-# Cats-VS-Dogs
+# Cats vs Dogs Prediction CNN Model
 
 Download dataset from: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset <br>
 <i>Make sure to use only the folder "PetImages".</i>
